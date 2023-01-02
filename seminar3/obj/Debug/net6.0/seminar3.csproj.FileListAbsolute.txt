@@ -1,0 +1,15 @@
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.csproj.AssemblyReference.cache
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.AssemblyInfoInputs.cache
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.AssemblyInfo.cs
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.csproj.CoreCompileInputs.cache
+C:\Users\vershininvv\Seminars prog 1\seminar3\bin\Debug\net6.0\seminar3.exe
+C:\Users\vershininvv\Seminars prog 1\seminar3\bin\Debug\net6.0\seminar3.deps.json
+C:\Users\vershininvv\Seminars prog 1\seminar3\bin\Debug\net6.0\seminar3.runtimeconfig.json
+C:\Users\vershininvv\Seminars prog 1\seminar3\bin\Debug\net6.0\seminar3.dll
+C:\Users\vershininvv\Seminars prog 1\seminar3\bin\Debug\net6.0\seminar3.pdb
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.dll
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\refint\seminar3.dll
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.pdb
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\seminar3.genruntimeconfig.cache
+C:\Users\vershininvv\Seminars prog 1\seminar3\obj\Debug\net6.0\ref\seminar3.dll
