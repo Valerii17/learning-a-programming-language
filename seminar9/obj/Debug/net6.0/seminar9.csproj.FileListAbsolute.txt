@@ -1,0 +1,15 @@
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.csproj.AssemblyReference.cache
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.AssemblyInfoInputs.cache
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.AssemblyInfo.cs
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.csproj.CoreCompileInputs.cache
+C:\Users\vershininvv\Seminars prog 1\seminar9\bin\Debug\net6.0\seminar9.exe
+C:\Users\vershininvv\Seminars prog 1\seminar9\bin\Debug\net6.0\seminar9.deps.json
+C:\Users\vershininvv\Seminars prog 1\seminar9\bin\Debug\net6.0\seminar9.runtimeconfig.json
+C:\Users\vershininvv\Seminars prog 1\seminar9\bin\Debug\net6.0\seminar9.dll
+C:\Users\vershininvv\Seminars prog 1\seminar9\bin\Debug\net6.0\seminar9.pdb
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.dll
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\refint\seminar9.dll
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.pdb
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\seminar9.genruntimeconfig.cache
+C:\Users\vershininvv\Seminars prog 1\seminar9\obj\Debug\net6.0\ref\seminar9.dll
